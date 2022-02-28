@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Terrible and bloudy nevves from the disloyall army in the north declaring their perfidious and tyrannicall proceedings to the whole kingdom of England: as also the raising of new forces in the kingdome of Scotland, to assist Monro against Lieutenant Generall Crumwell. And the Lieutenant Generals declaration touching the Scots. Likewise, a declaration of the proceedings of the levellers in Liecester-shire, under the command of Col. Martin, and their proclamation at Market-Harborom. Also, strange newes from the Prince of Wales, and the resolution of the souldiers in Holland, touching His Highnesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95386</idno>
+            <idno type="STC">Wing T3367</idno>
+            <idno type="STC">Thomason E462_28</idno>
+            <idno type="STC">ESTC R205081</idno>
+            <idno type="EEBO-CITATION">99864522</idno>
+            <idno type="PROQUEST">99864522</idno>
+            <idno type="VID">162205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Terrible and bloudy nevves from the disloyall army in the north declaring their perfidious and tyrannicall proceedings to the whole kingdom of England: as also the raising of new forces in the kingdome of Scotland, to assist Monro against Lieutenant Generall Crumwell. And the Lieutenant Generals declaration touching the Scots. Likewise, a declaration of the proceedings of the levellers in Liecester-shire, under the command of Col. Martin, and their proclamation at Market-Harborom. Also, strange newes from the Prince of Wales, and the resolution of the souldiers in Holland, touching His Highnesse.</title>
+                  <author>Turvil, W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a letter signed: W. Turvil.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162205:1" rendition="simple:additions"/>
+            <p>Terrible and bloudy NEVVES From the diſloyall Army in the NORTH</p>
+            <p>Declaring their perfidious and tyrannicall proceedings to the whole Kingdom of <hi>England:</hi> As alſo the raiſing of new Forces in the Kingdome of <hi>Scotland,</hi> to aſſiſt <hi>Monro</hi> againſt Lieutenant Generall <hi>Crumwell.</hi> And the Lieutenant Generals <hi>Declaration</hi> touching the Scots. Likewiſe, a <hi>Declaration</hi> of the proceedings of the Levellers in <hi>Liecester-ſhire,</hi> under the command of Col. <hi>Martin,</hi> and their <hi>Proclamation</hi> at <hi>Market-Harborom.</hi> Alſo, ſtrange Newes from the Prince of <hi>Wales,</hi> and the Reſolution of the Souldiers in <hi>Holland,</hi> touching His Highneſſe.</p>
+            <figure/>
+            <p>Printed in the Yeer, 1648. <add>Sept y<hi rend="sup">e</hi> ii</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162205:2"/>
+            <pb n="1" facs="tcp:162205:2"/>
+            <head>STRANGE NEWES FROM THE LEVELERS.</head>
+            <head type="sub">Declaring Their proceedings, under the command of Col. <hi>Mar<g ref="char:EOLhyphen"/>tin,</hi> in <hi>Lieceſter-ſhire,</hi> and other parts adjacent, to the great terrour and amazement of all his Majeſties liege People.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>COlonel <hi>Martin's</hi> approach with his Levellers in theſe parts, hath allarm'd the Country, and put themſelves into a poſture to receive him, <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:162205:3"/>for preſervation of their ancient rights and libertes, a<g ref="char:EOLhyphen"/>gainſt their new deſign of levelling, who by their ſtrange, politick, and ſubtill deluſions, have wrought into the hearts of divers people to ingage with them, eſpecially, among thoſe who are of a deſperate for<g ref="char:EOLhyphen"/>tune, and mean condition, the baſeſt and vileſt of men reſorting to him.</p>
+            <p>They rob and plunder exceedingly whereſoever they come, ſaying, <hi>They will levell all ſorts of people, even from the higheſt to the loweſt, and that he that hath the most, ſhall be equall with him that hath the least;</hi> but we hear that Col. <hi>Martin</hi> hath given command, That no ſouldier whatſoever ſhall dare to plunder or uſe violence againſt any, but that they behave themſelves civilly, executing nothing contrary to order.</p>
+            <p>If theſe Orders be truly obſerved, in all probability they will grow very numerous, if not timely ſuppreſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>Major <hi>Fincher</hi> uſing all means poſſible to accom<g ref="char:EOLhyphen"/>pliſh the ſame, but as yet he hath found great oppoſi<g ref="char:EOLhyphen"/>tion, notwithſtanding the late blow given them in <hi>Berk<g ref="char:EOLhyphen"/>ſhire,</hi> the manner thus.</p>
+            <p>Major <hi>Fincher</hi> being commanded againſt the afore<g ref="char:EOLhyphen"/>ſaid Col. <hi>Martin,</hi> fell upon his forces, routed them, and took ſome priſoners, but rallying again, its reported that they did ſome execution upon Major <hi>Finchers</hi> men, and afterwards forced their way into theſe parts, who of late deports themſelves with far more civili<g ref="char:EOLhyphen"/>ty then formerly.</p>
+            <p>On Tueſday laſt a party of them came to <hi>Market-Harborow,</hi> which put the Market people into a great fear, ſome running one way, and ſome another: where<g ref="char:EOLhyphen"/>upon
+<pb n="3" facs="tcp:162205:3"/>the Levellers perceiving this, made <hi>Proclamation</hi> neer the Swan, and at the Croſſe, <hi>That no violence or wrong ſhould be executed upon any, neither would they in the leaſt diſturb or hinder the Market.</hi> After which, they ſtaid a while at the Crown, and ſo departed peace<g ref="char:EOLhyphen"/>ably: the Lord <hi>Grey</hi> is with his forces about <hi>Aſhby-de-lazouch,</hi> and Col. <hi>Martin</hi> ſince the fair carriage of his men continues about <hi>Rockingham,</hi> which is all at pre<g ref="char:EOLhyphen"/>ſent, from</p>
+            <closer>
+               <signed>Your moſt aſsured friend, <hi>W. TURVIL.</hi>
+               </signed>
+               <date>Lieceſter 7 Septemb. 1648.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Terrible newes from the Scottiſh Army, concerning the proceedings of the Scots and Iriſh Forces, againſt the Engliſh forces, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>The proceedings of the <hi>Scots</hi> and <hi>Iriſh</hi> ap<g ref="char:EOLhyphen"/>peares more viſible and inhumane then formerly, their actions are tyrannicall, their wayes moſt inſuffe<g ref="char:EOLhyphen"/>rable, and executeth nothing but bloud-thirſtineſſe and cruelty, tending only to utter ruine and deſolation: they have burned downe divers ſtately buildings in theſe parts, executed ſome of my Lord <hi>Whartons</hi> Te<g ref="char:EOLhyphen"/>nants, and threatens others, which cauſeth the Coun<g ref="char:EOLhyphen"/>try to riſe and joyn with Lieu. Gen. <hi>Crumwell,</hi> inſo<g ref="char:EOLhyphen"/>much that there will be a ſudden engagement. The L. Generall hath declared himſelf very gallantly to the Country people, touching the preſervation of their lives and eſtates from the Scots, which takes excee<g ref="char:EOLhyphen"/>dingly amongſt the Inhabitants The Committee of e<g ref="char:EOLhyphen"/>ſtates have given out orders for raiſing of more for<g ref="char:EOLhyphen"/>ces to aſſiſt <hi>Monro.</hi>
+            </p>
+            <pb n="4" facs="tcp:162205:4"/>
+            <p> We hear that Gen: <hi>Munro</hi> with his Army is march<g ref="char:EOLhyphen"/>ed on this ſide <hi>Appleby,</hi> preparing for an ingagement, his forces conſiſting of about 8000. and it is reported that 5000. more are joyned with him from <hi>Scotland.</hi> Our Intelligence ſaith that he is reſolved to fight Lie. Gen. <hi>Crumwel,</hi> and the reſt of the Engliſh Forces, reſolving rather to die, then yeeld ground, unleſſe up<g ref="char:EOLhyphen"/>on advantage.</p>
+            <p>Our forces deſires to ingage, but could not paſſe by the way of <hi>Cumberland</hi> for want of proviſion, that County and <hi>Westmerland</hi> being exhauſted, beſides the wet weather and mountainous wayes makes cariages and Artillery unpaſſable had there been proviſion; in hoſe reſpects we paſſed by Skipton upon Craven, &amp; ſo by the Eaſt Coaſt, where we ſhall have better op<g ref="char:EOLhyphen"/>portunity to meet our enemy, who we are informed is paſt at Steinmore in the Biſhoprick of <hi>Durham,</hi> where is plenty of proviſion and Anti-covenanters, who bid them welcome to as much benefit, as Colche<g ref="char:EOLhyphen"/>ſter got by entertaining the Royall party.</p>
+            <p>Upon Satterday laſt <hi>Munroes</hi> Army randezvouzed at <hi>Borough</hi> neer <hi>Stainmore</hi> in the Biſhoprick, who ma<g ref="char:EOLhyphen"/>ſtered neer upon 8000. horſe and foot, Engliſh, Scots and Iriſh, well armed and reſolute.</p>
+            <p>At which Randevouz we hear, that <hi>Munro</hi> decla<g ref="char:EOLhyphen"/>red himſelf at the head of each Regiment, intimating <hi>His reſolution to live and die with them, add to fight it out to the laſt man.</hi>
+            </p>
+            <p>Then he called a generall councell of all his Officers where it was agreed, <hi>That the Scots and Iriſh ſhould be commanded back to Perith, and the Engliſh into the Bi<g ref="char:EOLhyphen"/>ſhoprick, and that within two dayes they march up to the
+<pb n="5" facs="tcp:162205:4"/>Randezvouz at Hexam Moor in Northumberland, which accordingly they did, where was a great appearance,</hi> Sir Philip Muſgrave joyning with them with a ſtrong par<g ref="char:EOLhyphen"/>ty of horſe: the train of Artillery likewiſe came up, as alſo 20 piece of Ordnance: and its generally reported here that 5000. more are comming out of Scotland, which if true they will make a very conſiderable Ar<g ref="char:EOLhyphen"/>my. Divers Engliſh reſorts from theſe parts to <hi>Mun<g ref="char:EOLhyphen"/>ro,</hi> who are by their great Landlords incouraged, and promiſed to ſit rent-free for the future.</p>
+            <p>We march ſlowly, becauſe we wait the coming of Col. Gen. <hi>Lambert</hi> with 4 Regiments whom we expect daily. Sir <hi>Wil. Huddleſton</hi> (a papiſt) hath raiſed a con<g ref="char:EOLhyphen"/>ſiderable party for the King, and beſieged <hi>Cockermouth</hi> the Lancaſhire forces are gone to ſuppreſſe him.</p>
+            <p>Col. <hi>Fenwicks</hi> horſe and ſome Dragoons went neere <hi>Barnick,</hi> relieved the <hi>Holy Iſland,</hi> ſtorm'd <hi>Fenham</hi> Ca<g ref="char:EOLhyphen"/>ſtle neer the Iſle, in which was a Scots Garriſon, took divers priſoners, put the reſt to the ſword: they ſum<g ref="char:EOLhyphen"/>moned <hi>Hagerſton</hi> Gariſon, but the Scots ſallying out of <hi>Berwick</hi> forced them to retreat.</p>
+            <div type="part">
+               <opener>
+                  <dateline>Richmond <date>6 Septemb. 1648.</date>
+                  </dateline>
+               </opener>
+               <head>The last Newes from the Prince.</head>
+               <p>Letters from <hi>Holland</hi> ſay, That great preparations is made at the <hi>Hague</hi> for the entertainment of the Prince of <hi>Wales,</hi> and that divers Courtiers are gone from thence with Coaches, to attend his Royall perſon from the <hi>Brill.</hi> The common report is, He is to rig the ſhips again, and thoſe prizes which be got in the Downs, he intends to ſell, and with the money to levy ſome forces. Among the <hi>States</hi> it was disputed, whether he ſhould be entertained by them in a publike way, or whether ſo much <hi>per diem</hi>
+                  <pb n="6" facs="tcp:162205:5"/>ſhould be allowed unto him for ſome time. The reſult its ſaid was, that one hundred pound ſhould be allowed un<g ref="char:EOLhyphen"/>to him <hi>per day.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Hague <date>Septemb. stylo novo.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Other Letters ſay,</hi> That divers of the old ſoldiery are much diſcontented at the proceedings in <hi>England,</hi> and vexed at divers great Ones who were at ſea with the Prince, being reſolved never to engage where ſuch perfi<g ref="char:EOLhyphen"/>diouſneſse and treachery abounds. The Duke of <hi>York</hi> is come from the <hi>Brill</hi> to this City, the Prince daily expected but loath to leave his ſhipping. Divers of the Lords are come aſhore, and the greateſt part of the Navy gone to <hi>Gorce.</hi>
+               </p>
+               <closer>
+                  <dateline>Haugue <date>8. Sept. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
